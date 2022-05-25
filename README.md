@@ -1,4 +1,4 @@
 # Mirai-3
-readme from github
+from github
 
 added a new line from rstudio
