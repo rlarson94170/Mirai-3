@@ -6,3 +6,5 @@ added a new line from rstudio
 added another line
 
 added line in RS
+
+addedn a line in RS for conflict
