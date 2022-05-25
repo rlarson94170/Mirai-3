@@ -11,4 +11,4 @@ addedn a line in RS for conflict
 
 added line in GH for conflict
 
-this is after revert
+this is for a revert
